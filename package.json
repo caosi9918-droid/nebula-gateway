@@ -1,0 +1,1 @@
+{"description":"An intelligent AI model gateway that unifies multiple LLM providers, optimizes API routing, manages usage and costs, and provides real-time model observability.","engines":{"node":">=20"},"license":"MIT","main":"src/server.js","name":"nebula-gateway","scripts":{"start":"node src/server.js"},"type":"module","version":"0.1.0"}
